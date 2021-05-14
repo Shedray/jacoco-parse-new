@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="227aab3e-822e-4294-9a2d-6940046b1568" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sWMxpdBze8eSqy3KRHJW8OlErV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="parseFile.测试" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/index.js</test-file>
+      <test-names>
+        <name value="parseFile" />
+        <name value="测试" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.parseFile.测试" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227aab3e-822e-4294-9a2d-6940046b1568" name="Default Changelist" comment="" />
+      <created>1620984142211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620984142211</updated>
+      <workItem from="1620984143474" duration="3779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1748" height="317" key="GridCell.Tab.0.bottom" timestamp="1620987323293">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="317" key="GridCell.Tab.0.bottom/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323293" />
+    <state width="1748" height="317" key="GridCell.Tab.0.center" timestamp="1620987323289">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="317" key="GridCell.Tab.0.center/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323289" />
+    <state width="1748" height="317" key="GridCell.Tab.0.left" timestamp="1620987323288">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="317" key="GridCell.Tab.0.left/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323288" />
+    <state width="1748" height="317" key="GridCell.Tab.0.right" timestamp="1620987323291">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="317" key="GridCell.Tab.0.right/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323291" />
+    <state x="635" y="380" width="313" height="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620990023482">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="635" y="380" width="313" height="242" key="git4idea.remote.GitConfigureRemotesDialog/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620990023482" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/index.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

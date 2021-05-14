@@ -4,7 +4,6 @@ var assert = require("assert");
 var parse = require("../source");
 var path = require("path");
 
-
 describe("parseFile", function () {
     it("should parse a file", function (done) {
         parse.parseFile(path.join(__dirname, "assets", "sample.xml"), function (err, result) {
@@ -27,6 +26,16 @@ describe("parseFile", function () {
             done();
         });
     });
+    it("测试", function (done) {
+        parse.parseFile(path.join(__dirname, "assets", "sample2.xml"), function (err, result) {
+            let a = JSON.stringify(result['net/uniform/html/filters/StringTrim.java'])
+           console.dir(a)
+            done();
+        });
+    });
+    it("测试报告",(done)=>{
+
+    })
 
     it("should parse a file - sourcefiles without branches", function (done) {
         parse.parseFile(path.join(__dirname, "assets", "sample2.xml"), function (err, result) {
