@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="227aab3e-822e-4294-9a2d-6940046b1568" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620984142211</updated>
-      <workItem from="1620984143474" duration="3779000" />
+      <workItem from="1620984143474" duration="5015000" />
     </task>
     <servers />
   </component>
@@ -74,22 +73,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1748" height="317" key="GridCell.Tab.0.bottom" timestamp="1620987323293">
+    <state width="1748" height="317" key="GridCell.Tab.0.bottom" timestamp="1621129758505">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="317" key="GridCell.Tab.0.bottom/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323293" />
-    <state width="1748" height="317" key="GridCell.Tab.0.center" timestamp="1620987323289">
+    <state width="1748" height="317" key="GridCell.Tab.0.bottom/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621129758505" />
+    <state width="1748" height="317" key="GridCell.Tab.0.center" timestamp="1621129758502">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="317" key="GridCell.Tab.0.center/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323289" />
-    <state width="1748" height="317" key="GridCell.Tab.0.left" timestamp="1620987323288">
+    <state width="1748" height="317" key="GridCell.Tab.0.center/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621129758502" />
+    <state width="1748" height="317" key="GridCell.Tab.0.left" timestamp="1621129758498">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="317" key="GridCell.Tab.0.left/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323288" />
-    <state width="1748" height="317" key="GridCell.Tab.0.right" timestamp="1620987323291">
+    <state width="1748" height="317" key="GridCell.Tab.0.left/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621129758498" />
+    <state width="1748" height="317" key="GridCell.Tab.0.right" timestamp="1621129758503">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1748" height="317" key="GridCell.Tab.0.right/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1620987323291" />
+    <state width="1748" height="317" key="GridCell.Tab.0.right/-1920.-186.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1621129758503" />
     <state x="635" y="380" width="313" height="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620990023482">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -100,7 +99,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/index.js</url>
-          <line>28</line>
+          <line>7</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>

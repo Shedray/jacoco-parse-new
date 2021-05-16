@@ -1,12 +1,20 @@
 {
   "name": "jacoco-parse-new",
-  "version": "1.0.6",
-  "description": "Parse jacoco coverage to JSON, based on output from lcov-parse",
+  "version": "1.0.7",
+  "description": "Parse jacoco coverage to JSON, based on output from lcov-parse base jacoco-parse",
   "main": "source/index.js",
   "scripts": {
     "test": "mocha --reporter spec",
     "testcover": "istanbul cover node_modules/mocha/bin/_mocha -- -R spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shedray/jacoco-parse-new.git"
+  },
+  "bugs": {
+    "url": "https://github.com//Shedray/jacoco-parse-new/issues"
+  },
+  "homepage": "https://github.com/vokal/jacoco-parse",
   "author": "shedray",
   "license": "MIT",
   "dependencies": {
